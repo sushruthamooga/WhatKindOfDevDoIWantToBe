@@ -6,12 +6,12 @@ function PetForm() {
       <p>Do you like cats and/or dogs?</p>
     
       <span>
-        <input type="checkbox" id="pet" name="pet" value="Cat" />
+        <input type="checkbox" id="cat" name="pet" value="Cat" />
         <label htmlFor="pet">Cats 😻</label>
         </span>
         <span>
         <br />
-        <input type="checkbox" id="pet" name="pet" value="Dog" />          
+        <input type="checkbox" id="dog" name="pet" value="Dog" />          
         <label htmlFor="pet">Dogs 🐶</label>
       </span>
     </div>
